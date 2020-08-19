@@ -1,3 +1,4 @@
+#JavaScript Calculator
 #HTML Code
 
     <!DOCTYPE html>
